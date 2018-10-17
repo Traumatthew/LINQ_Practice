@@ -1,0 +1,7 @@
+C:\Users\Matthew Trau\source\repos\LINQ_Practice_Problems\LINQ_Practice_Problems\bin\Debug\LINQ_Practice_Problems.exe.config
+C:\Users\Matthew Trau\source\repos\LINQ_Practice_Problems\LINQ_Practice_Problems\bin\Debug\LINQ_Practice_Problems.exe
+C:\Users\Matthew Trau\source\repos\LINQ_Practice_Problems\LINQ_Practice_Problems\bin\Debug\LINQ_Practice_Problems.pdb
+C:\Users\Matthew Trau\source\repos\LINQ_Practice_Problems\LINQ_Practice_Problems\obj\Debug\LINQ_Practice_Problems.csprojAssemblyReference.cache
+C:\Users\Matthew Trau\source\repos\LINQ_Practice_Problems\LINQ_Practice_Problems\obj\Debug\LINQ_Practice_Problems.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Trau\source\repos\LINQ_Practice_Problems\LINQ_Practice_Problems\obj\Debug\LINQ_Practice_Problems.exe
+C:\Users\Matthew Trau\source\repos\LINQ_Practice_Problems\LINQ_Practice_Problems\obj\Debug\LINQ_Practice_Problems.pdb
